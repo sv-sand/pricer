@@ -1,0 +1,6 @@
+[submodule "pricer-tgbot"]
+	path = pricer-tgbot
+	url = https://github.com/sv-sand/pricer-tgbot
+[submodule "pricer-parser-service"]
+	path = pricer-parser-service
+	url = https://github.com/sv-sand/pricer-parser-service
