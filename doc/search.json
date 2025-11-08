@@ -1,0 +1,6275 @@
+{
+  "metadata": {
+    "catalog_type": "preset",
+    "catalog_value": "preset=10024868",
+    "normquery": "mac air",
+    "search_result": {},
+    "name": "macbook air",
+    "rmi": "1",
+    "title": "macbook air",
+    "rs": 100,
+    "context": [
+      "электроника"
+    ],
+    "qv": "AQEFAQIAAS1UqwWwc6ugLUKn_KwPMw0v2SsKL0wmo7AHqpSkfrBorogwLSo0qi8vWa_MrpSqRqp9rPuwkLFyrVmwRaVyLZ2r6bHcrXwtEaW7MAixJC5Qpo8xUYzAsi-o6S6dKsmqy6sSKW0uFKxHrAemuKJ6KD-xdCkrrquml6nDrbIwyrCSrbYtcy27Jvyw1RySrbAncq8uqDqqg6ebMxAoEiYTsLoxmKtmK5GqYSObnDMuYCvILq2l-Ks6KmUpN6V4rLEslCjRLTkpPB_EoU-lry-WFiWwoTCqJ6EuoSoqqjYrTSwNH02oE6xjKBCnMKjPppst4J5tLUGhAqefLaukICQLL_4",
+    "snippet": "charcs"
+  },
+  "products": [
+    {
+      "id": 451710090,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "rcId": 206,
+      "root": 448896802,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M1 8 256 (Space Grey)",
+      "entity": "ноутбуки",
+      "matchId": 493651,
+      "supplier": "Wildberries",
+      "supplierId": 871441,
+      "supplierRating": 4.8,
+      "supplierFlags": 8000,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 118,
+      "nmFeedbacks": 118,
+      "panelPromoId": 1010357,
+      "volume": 216,
+      "viewFlags": 12,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637760871,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 11499000,
+            "product": 5749500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1476395008,
+          "payload": "A/RoZRV1DB/dnxORVe7OISOQqcsXjYrkXrigsktIcfn9re8GHPsLkieGWYgdSog0ll+keJyj/72wM23MPIJDzJrD+r5ltmQVkZJ6uFfQiJzV3bAZSXOJ2qVLckJEA9css4DPNWGdbAVWxfrfWtJr27lQ1t20/2TYTN5i1cvgLRKn5Wm5pmKEhRJaj+fg+qN3FJRV8QgmIHnF7YVJhP7Kd8Z/"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 446399479,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "rcId": 206,
+      "root": 441387214,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M2 16 256 (Midnight)",
+      "entity": "ноутбуки",
+      "matchId": 2414323,
+      "supplier": "Wildberries",
+      "supplierId": 4600133,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 5,
+      "reviewRating": 4.8,
+      "nmReviewRating": 4.8,
+      "feedbacks": 4,
+      "nmFeedbacks": 4,
+      "panelPromoId": 1012931,
+      "volume": 43,
+      "viewFlags": 1572876,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 630991021,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 16664000,
+            "product": 6498900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1476396032,
+          "payload": "AyRV6HuU1XCowx5LFuRhBq8j/fYPbp1Y0A5g0b2gAaHdtl4u7M5gWljg9zfsiwy94PUFS5YGj9gR07gRucv/QEqfwBci4vMP6o2LVZaPfXrG6qqxhJxQDcEllIhmV3BUd3wJwU6IVc3p/AMVo91Rlm0OaIojPLYxtaCr9TyGufKyUcfzR6XPDoN9qizSFbCgCk3Vk6YGB1xQC5enwfPVCq1MeARqqA"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 367722954,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "root": 358889631,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Macbook Air 13 M4 16 256 (Starlight)",
+      "entity": "ноутбуки",
+      "matchId": 217287297,
+      "supplier": "Wildberries",
+      "supplierId": 4099167,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 7,
+      "nmFeedbacks": 7,
+      "panelPromoId": 1010357,
+      "volume": 57,
+      "viewFlags": 1327116,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 538311281,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 14499000,
+            "product": 8844300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1476395008,
+          "payload": "A7fGl6tF4omOk9pbFUPWhvHgtRXqe+hVBXNQ2mNhzYP9CA3Kb0PaXXEsI+D783oymiTmMIk48uW9XgpL1wlLXZKJDuV8bZ4XSajFCmIOq3Yz8EVuzMmwtEpHzO7/r3fC/0s38UdXiYPHROH9f+/DG3Rf1B/mZ7bM4MCU7rG0k1bPFtRO0YKWP2CYgD0MxgQBBSnjvvVgwvZkyhTQRtQN9h+/NxoUZA"
+        }
+      ],
+      "totalQuantity": 13,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 367873879,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 502662075,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M4 16 256 Midnight (MW123)",
+      "entity": "ноутбуки",
+      "matchId": 217287166,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 10,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 10,
+      "nmFeedbacks": 10,
+      "panelPromoId": 1010357,
+      "volume": 76,
+      "viewFlags": 1581064,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 538478968,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 18090000,
+            "product": 8716600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A5C0z2CbUyHDffEHtnnyuUKslFchz5ZcRJDqS7zIKh6VeDokGZNZE2CVZ6ETXOdSqBAj5YmKieFp55dAvsoPRo0tr+XV4vEra9asOHFKNVU4xfPPjYiPr+zMMtVm5fiL1v6Ls8RLBsuMc07ptd6C7Ye2i93nieVZqba3fRxrXLWDygFkWJHEVGB7c2cjNHQHf6FVDMh15/aCbVFcDIRqzDVUH0H6Hjs"
+        }
+      ],
+      "totalQuantity": 2,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 367722982,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "root": 358889658,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Macbook Air 13 M4 16 512 (Starlight)",
+      "entity": "ноутбуки",
+      "matchId": 300046412,
+      "supplier": "Wildberries",
+      "supplierId": 4099167,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 3,
+      "nmFeedbacks": 3,
+      "panelPromoId": 1010357,
+      "volume": 57,
+      "viewFlags": 1327116,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 538311309,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 21999000,
+            "product": 12319400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1476395008,
+          "payload": "A6sQcXSEH9ID37rx3NOtCl59tG+g1vchPl213gAz4Ar+zv06lVFofJilbYdNUj+k37Azlauh7RH39OU1UEPMv85XSXjbb5zWoH7ARjdvi440NISFpL2zAhpTynE5t8ox/w7sF0CgpCx78Mv+LYq4MxSYC2FtgEUpHEqWlUKoKlx2+pgYmAwiYSYoFPk9j/Xl7ci2d3nh92wV/9AmtvxT43xfZsUF5g"
+        }
+      ],
+      "totalQuantity": 8,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 307258439,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 502657764,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M2 16 256 Midnight (MC7X4)",
+      "entity": "ноутбуки",
+      "matchId": 198743319,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 4.6,
+      "nmReviewRating": 4.6,
+      "feedbacks": 15,
+      "nmFeedbacks": 15,
+      "panelPromoId": 1010357,
+      "volume": 129,
+      "viewFlags": 1581064,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 465746486,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 13700000,
+            "product": 7086700,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A1sEbhbHAXogXDf2MONQDh5hDVPMlx5z5o7vOKWmamE1SmslPNn/bcYTC3yG4mKWHesTNfP3VWU8plUtp8SIZe7a+L++WMEWRa7Rn2eXe3pPH7jJkZhW+IJsyCD3xaKWY6wXkgkS93DQAHJ5b6PKkDYfRnCz/0MnGlgCbj6/GL/uBfTjWNMnbKiKVGFjTrYpVup8Vq0twuI+k4JI9/63RICIxcSlmUI"
+        }
+      ],
+      "totalQuantity": 4,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 418058595,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 409791355,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2022 M2 MacBook Air 13.6'' 8+256G black совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 235134271,
+      "supplier": "AppleStore",
+      "supplierId": 4215100,
+      "supplierRating": 4.5,
+      "supplierFlags": 3072,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 2,
+      "nmFeedbacks": 2,
+      "volume": 74,
+      "viewFlags": 24,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 598094842,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 13473900,
+            "product": 6197900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "A4AfHn8jRipCKFaN8SMGz3zF/Nmc7SK+soPdkvu8a3xPRATLJo/cDFI/vDC5UB6RXol5WxoAqCtrN/U+ORjkYUa1Mhh3oKVBOldRvBPiTXOYIdOXnC2QEAKoeyH5xRH6ARJGvmx615oCcauHFPYzU4f0LdNVaAXLENj2ADpYZU5emYrkIEqSh6SBt9PcDar9tqTzLie2P/oUa1fs76sUE+VevA"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434448233,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 426894864,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MC6T4 M4 16 256 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 235754561,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 4,
+      "nmFeedbacks": 4,
+      "feedbackPoints": 350,
+      "panelPromoId": 1010357,
+      "volume": 127,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 616888421,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 12725000,
+            "product": 9734600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "AwMECdifKc7Thxlrdx4DP5ODL6MsxQmBE9Be8NvK3KxLj2sNYtFhhHFh35cnZdO7ceJXV5JA5JWNSvqt9LeqWCPJfrpSqNVe3VNAmZrPjlF9NtFZQi1oq30CoacjoCmjOZDNcaDy1OBmdX2rbH3zkIpuvTDysRPxrQi+92mmfLxm2+X9uq2F+mVmlZPZcpyv0AoldFe3FQTFKUd57AYh4KWLfILf/g"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 436665373,
+      "time1": 20,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 429406240,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13\" (M4, 2025), 16 ГБ, 256 ГБ, Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 272659273,
+      "supplier": "rv-Stock",
+      "supplierId": 1353909,
+      "supplierRating": 4.7,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 2,
+      "nmFeedbacks": 2,
+      "panelPromoId": 1010357,
+      "volume": 44,
+      "viewFlags": 532488,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 619420881,
+          "wh": 218804,
+          "time1": 20,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 13999000,
+            "product": 8828500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A3srH9Hc2csSSKGwzH2cuFPcijgTGN1bH1/3rWdpcy4BcOmx5CGQWZB+vGMhvjvsRg9SMyPUk6x/lpDxaO4dzbe6Ikbr8eAaBpHZXaZMxSbAdP+IpmAcapo7S2puO6Tu2dexhHTaGylxUv8CXz5VDC4WUdaSEBxBRajFS+jf1b27p4G0t9o1smdkU9ZQMcYQxJfBLOYJSigiXHdUX6YYofcEMZ6SMvs"
+        }
+      ],
+      "totalQuantity": 4,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 307258438,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "rcId": 206,
+      "root": 502657764,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M2 16 256 Starlight (MC7W4)",
+      "entity": "ноутбуки",
+      "matchId": 9944225,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 8,
+      "nmFeedbacks": 8,
+      "panelPromoId": 1010357,
+      "volume": 129,
+      "viewFlags": 1581064,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 465746485,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 13700000,
+            "product": 7183700,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A7RGAnLz2ykVaTZMNK/BkNBdCZ8qOvhr1nltbT0zfPHnrY3zEoMLQ7rcwBcZx8OkP8jQmqIYG4xKOW7lefcvvGYcV7UJ5ZvaLFK2WubnaU5uggnidzjXhUk788dGn3RVmJWte/tawO2bBxIa4FbwxTL8V6dWA5L+0AxM7IxB6vK2qVFcGUZCsAH2zqVcbSwatvoALtemDv154lcwK0u/FRi822c4Ur4"
+        }
+      ],
+      "totalQuantity": 2,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671111,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1H3 -M4 16 512 Silver",
+      "entity": "ноутбуки",
+      "matchId": 238335555,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 155,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160790,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 19134000,
+            "product": 14637500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A6YG14i3fd8z/kMRtjs7uVuxBSWBGksxUvnYouYQEcmeEfo9IyK7lf83dSwys/nqfQu8AHKxSBycI3bflwHfa7weAf3iqaGotkPrI8+eDnerRVrZo3FQyjfXJtge2SOouyO7/PVyGG6wpWgrqwGskktCAWGymXvqAR3SbaLEXbjjvaOtEKLeG3yBOLoadXxSFEAIyYdfi+DQrovnQVSc7Pbmrl/0zQ"
+        }
+      ],
+      "totalQuantity": 19,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 516622771,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "rcId": 206,
+      "root": 523209519,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M1 8 256 (Space Grey)",
+      "entity": "ноутбуки",
+      "matchId": 342447504,
+      "supplier": "Wildberries",
+      "supplierId": 8372,
+      "supplierRating": 4.7,
+      "supplierFlags": 8000,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 216,
+      "viewFlags": 14,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 714174862,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 11499000,
+            "product": 5749500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959552,
+          "payload": "A/Q0wsWqIb5Gk4T4reK+wYmKcuOvGfnZnLkH8PUn06VDliV74g8QRY7wbUpwYVW/tHnzXnZP6KU1GnzMTyQQS/xWVUcTHNqiVj+0hlFAH0tQSv4cZ+knKH4pc+TYvzK0J4dCPFMLyPv7tcnatzifc8icqFStQyo0z5Ku1fLu1VH1FBGe8SJ0d5KO9iHo/MhoHVjbpqO6o7jGBv2/KD1IWA"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671112,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "фиолетовый",
+          "id": 15631086
+        },
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1K3 -M4 16 512 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 238333598,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 5,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 164,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160791,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 18629000,
+            "product": 14251100,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A+uJu6WTBy8fJWzm8/fvUkQwH5svnC71k92dkzK5IqINzgCOaJNP2LPCbT3bqvbmmKxsah6LkMJ033JqM1DoN8Dv4oikrZ1+/1Ed/ml8NVmhoZD8ULWaStsLgWG6jpbD9af0PbxvDPF47Y4dHbKQhFTg985URySLwdWpc5uwgK7cYMyBmECA21wlZ0pInnYYb0woet64Z2Dyas3IUD5f1OtRQDocyw"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275555,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MC6T4 M4 16 256 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 235754561,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 127,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637240958,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 13061000,
+            "product": 9991600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "AzhSDDuXbEIdYNhx9gCaW919YznjZE0TRIy8ug/kVflArsAOb67wSIulxB/NLgQMOfh3jApEGh3ZoVFL7JxOMr8L8IdBv2ouEUgZnpy2zRDsn6xWx2Vbuq1QZwyvchMPqwFw2i33FQg8zMY0y8GZmYdv5IgQjocNkSQsqyEf0jYuOS9ZoBjUdLmADNQd8Ja6MP7yVCK2OXCb/6pK7vaBbygp/5Kl7Q"
+        }
+      ],
+      "totalQuantity": 5,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434597839,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 426894864,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MC6U4 M4 16 512 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 238335715,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 350,
+      "panelPromoId": 1010357,
+      "volume": 127,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617079091,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 15728000,
+            "product": 12031900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A2wUD0DZBLV1BSF9UJ2GBGr8ZX6E2CCss5vGtoBJntwP2TmimGM4nOHe8mW9/j3aveQcZpGImrha6+OjgttV7zvswnfoL7IOKMF+/2g+cLfztecO+3QnvdTNy0ow18HpxLJwSC9QW2XliD1JdiPHN7vUkWnLZ9LOpqZgmb/1/E8tvbzyYXG7/DEJj6hDHESExNBNeOKMuHxFr9ZfeeqPHRHdS9Gq7w"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 453459796,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 450905284,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook MRXW3 Air 13 M3 8 512 Midnight (2024)",
+      "entity": "ноутбуки",
+      "matchId": 1499002,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 59,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 639849196,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 13768000,
+            "product": 10532500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "AykXuhcOzIkweyTs9Wyiz9PREmvfEzmx8c4t9u8nrmSpTdxxvtO1Ntj5e2nTuLCveWenIPz9fZznL5cyoFZ34GiZ4WdavG/j068jw9f9CAtKsJ24FK9MBQRN8MaW993yOVV+AL3VYQWQQXF317hmHlSvWvcfRUrcjGZ2oxfF4TK0D6qkxJFEUZ4ozpJtDyoNnP6PbnsBYDuLcxlgFNKsL7jP6ZoBkQ"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 541579851,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "rcId": 206,
+      "root": 552464011,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M2 16 256 (Midnight)",
+      "entity": "ноутбуки",
+      "matchId": 2414323,
+      "supplier": "Wildberries",
+      "supplierId": 3966507,
+      "supplierRating": 4.7,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 43,
+      "viewFlags": 1327118,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 746030908,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 16664000,
+            "product": 6498900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1476395008,
+          "payload": "A5+hlJGNoUM3xFLsoxSYHBGy7tacFPJ0z1IgEo6UQUo1sJTSRTjFCSDHsbeEltyy3W+Nn5TvQbI2ojaqQQlRxdD7aiiZxuWQVlX411xa16bj5dLBP1HE8bMh5o6KXx5O7//urL3do7CegFWM3aQ3HRqBF45Al47b9x0sE7XiHzdaY15sz3NTrH74yKq+pr04w9uhlZR4EjYs6gtajMRY+dYyJ8Fkng"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 504341434,
+      "time1": 19,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 513033682,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 M4 16 256 Midnight",
+      "entity": "ноутбуки",
+      "matchId": 327572455,
+      "supplier": "Tyuka",
+      "supplierId": 250020434,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 700208103,
+          "wh": 304803,
+          "time1": 19,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11300000,
+            "product": 8007100,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "AzllB1RT1hp1bsvpAwzSQFjlhiA3A8htLYyKG1hG1ilfnm2CC5KQ1tE6zL11xX3Pkc/J/az/eJRKM0MmOXUTdhg7R03IkrRwm9nNgIJQZg5BzcEpU3YrO6Nq0R2BcaE8jnCJzIrNWB5kMZMdrrGnLc6iduXmp/mnCoGIFtEpbckl+304TsE5pZQ3fnFfRFxPFnIU7QrLfVYUZgDrwyU/lOmGLhILgEg"
+        }
+      ],
+      "totalQuantity": 1,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275552,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MW123- M4 16 256 Midnight",
+      "entity": "ноутбуки",
+      "matchId": 217287166,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 2,
+      "nmFeedbacks": 2,
+      "panelPromoId": 1010357,
+      "volume": 140,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637240956,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 13508000,
+            "product": 10333600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A7acMQx200nERHcf7vW1rrxxoAmMEsoMF0ACw4N6YmziklrlLabHFNvA8RHWxZC7ba4PsrXCigwEkm8hqMGEJuCGZah97FoMFiXfCEG3k9IrOA/efnkR84dMusimkIdGlRLBzxmcb99wGUy4+LFv47cRpeNLWnMa1d6CdEmhDnN1SROcljSpC1oZLO1sKG0OcEpjFh1IpxiQsspnezovbyU4EzizdA"
+        }
+      ],
+      "totalQuantity": 3,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671119,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MC6J4 -M4 24 512 Silver",
+      "entity": "ноутбуки",
+      "matchId": 238335610,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 192,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160798,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 21879000,
+            "product": 16737400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A6K/t2oQijQ0tByewRRwXXAQx4SIToxdAnRo/wBtdMbzBj3OLdWoc31Fr0OjHuoV6QwK49EV0Lv2OHg1xatWFU2US/57eH5Fc1SiRelII89eMwJzUp4GfmVkQ9DXYH04PBgW7+/p64PCTw+tA8yQcmh4nhO/GQ6XLCTZoj9z/8GkqIJoIBBozWPkrpkrtO1FpTl4L7FGwEW8+7iTllPN2HS3jR9W+g"
+        }
+      ],
+      "totalQuantity": 22,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 274509494,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "rcId": 206,
+      "root": 253666253,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M1 8 256 Space Grey (MGN63)",
+      "entity": "ноутбуки",
+      "matchId": 28141,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 4.9,
+      "nmReviewRating": 4.9,
+      "feedbacks": 63,
+      "nmFeedbacks": 63,
+      "panelPromoId": 1010357,
+      "volume": 268,
+      "viewFlags": 1581064,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 423354779,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 10200000,
+            "product": 5854400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "Ay3AHEPW91gC0kTc36vnm2m9B4y3a4FY3euyD7H+9irsr4KgO2QQ6WEqvxOwknaEp8XqaJK/dQH3HivgnE1YFk0uLgltsVPx+3WdvhXAG+RCIZwbq1Ov/3aKTHr3hRZe4UOE+C/qc/zYD4l7ktEitIJfLtq+/mJFGsu2Pghz5V+zVZDiOuqylZK05tApR/957F+5bkmqX0BJzSlllbE7YNayChdqyEk"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671109,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1G3 -M4 16 256 Silver",
+      "entity": "ноутбуки",
+      "matchId": 233675718,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 192,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160788,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 15807000,
+            "product": 12092300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A1MRbe5eQq9w8aRl7EvHKs0O3vTlRz6ZUVfk1GQJTZzvzOwz181nfDPcms3R49MRLRuUox1u2wCprXJn5zw2tMgVvxPrNLWkTtx47NLVAFvjkpG20sO+OBprjy4aPqb9mv0+0d7TGRfkTUErzUso5/tCQGkReBI0IlZTosJdMSMBBhfIWAgT9NzspSKam2J4DTT/l0O3SBrLrTRWRFEMYtouvB9+vQ"
+        }
+      ],
+      "totalQuantity": 18,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 449771125,
+      "time1": 2,
+      "time2": 41,
+      "wh": 117986,
+      "dtype": 6597069766664,
+      "dist": 901,
+      "rcId": 205,
+      "root": 459962626,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук Macbook Air 15 M3 8 256Gb Space Grey",
+      "entity": "ноутбуки",
+      "matchId": 429542,
+      "supplier": "KOSMOSTORE GROUP",
+      "supplierId": 4070164,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 4,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "volume": 236,
+      "viewFlags": 1335432,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 635555949,
+          "wh": 117986,
+          "time1": 2,
+          "time2": 41,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 13880200,
+            "product": 7474900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "AxAGIxAcEOgNqRKIv4iE6td8BVfJdFygoQmT0PVe9NL0wdIzcCYG6/NzdNhdBUVw1WQGX3EYPrAOejl7NoWr5maLZxFWUGNa1gYAFi823P5PrvwUumjqdA/hJP5IoJNn+DebgqxBu7CQ+Jh2/5uc+VSMDyw70pDgiG2SfWcStk9Nvx0rW0XaAzASZkeEynA9cMJyC/jsD/sKsIiMuWZQWJAnLnqQDFQ"
+        }
+      ],
+      "totalQuantity": 1,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 454246121,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 453063502,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбуки MacBook Air 15 Starlight M3, 16GB, 512GB 2024 MXD33",
+      "entity": "ноутбуки",
+      "matchId": 2346319,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 5,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 112,
+      "viewFlags": 1581184,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 640760058,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 14203000,
+            "product": 10865200,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A3DydbemGHsSX7C77TDoK/61NUwKEK15ej67qfsJU+S0JpcDPbXO5ATORvjQZZKqW+R3g3Aej/BwzosvIuIhuEyGOQ+FofTsCbOfSOWGu0bZJnR0P9ZDlzeh538kgTycstPCmL/MAuKh5H+Y0nNEw662yDUbAjVCShLM6M7YwyVULiPoVUHvnzdAWmwtmRBB7kUctmqUx7SdmzaJ+nZjBDQHpOcFZA"
+        }
+      ],
+      "totalQuantity": 10,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 532045270,
+      "time1": 60,
+      "time2": 33,
+      "wh": 324107,
+      "dtype": 6597069766657,
+      "dist": 136,
+      "root": 539685828,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M3",
+      "entity": "ноутбуки",
+      "matchId": 345223171,
+      "supplier": "Umnik",
+      "supplierId": 250037410,
+      "supplierRating": 4.8,
+      "supplierFlags": 12240,
+      "pics": 5,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 81,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 732881922,
+          "wh": 324107,
+          "time1": 60,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 9890000,
+            "product": 7008000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "AxDyB2ZHbAG2trSGfVa6TQP7uWsFABoYi2muy7wKlmorY/P7Mg8Oyhi5omXcE05X9M3oDNStxGjUZT+mugjfKPS4bO2Z8TBeTafiMDBtJQyH0/KBvo29IwIJhW6vEXAvIxJMLKiHM97qIyo2UwDqJSMqXG1TtxO87J36F1x4RlPpfeiKRWefenLa+MQ2+/Vla3wdhdvYRu+FY/Uh4Ene1SPpfQchvME"
+        }
+      ],
+      "totalQuantity": 1,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275558,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "фиолетовый",
+          "id": 15631086
+        },
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MW0Y3 M4 16 256 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 262276350,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 142,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637240961,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 12976000,
+            "product": 9926600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A56osm/GSeg/NfzpYyHK6jPFUfwNKD1CvAmlv/ZP0YBGUZxOneKj1XTom/iYczxikp9jH6MfYIvpgFEwhC1H7zjWtnFcV43qEom0B3qG2orxpTh//O8qKr/bWuj2TpLxRk17i74daVKJwI92a0yHxz6ov/JQ5HSL4KDqkpstly608IAnyaNk9TCN/ewe0ptxivC0uccBehrn/MWh4qJXaSodU/PfOw"
+        }
+      ],
+      "totalQuantity": 3,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 277338512,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "rcId": 205,
+      "root": 504514368,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 M3 16 512 Silver (MXD23)",
+      "entity": "ноутбуки",
+      "matchId": 1715142,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 3,
+      "nmFeedbacks": 3,
+      "panelPromoId": 1010357,
+      "volume": 236,
+      "viewFlags": 1581192,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 426946794,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 20200000,
+            "product": 9303900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A8Zx2iCwCxjNzfvGoZUs0YZXIOKgdH7A1a4ISx/bm7Ai6Z2iZjTooFIQR+8W6FDpUsR+S001zzt2zomhVDFOzSiRVOyPuVr2VVhBHN1EG0bBBM0R9JvbtwMmtYQEaAtwnYvCvlrEmLiltfbtKI6Kwu0JPq0ZGnxtVjMHYP/4kdjsR65sMfWoZGnvkIiOnFklsp1kjys3VIdrJYBMCouWbJjptLyYa6E"
+        }
+      ],
+      "totalQuantity": 3,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275554,
+      "time1": 30,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MW0W3 M4 16 256 Silver",
+      "entity": "ноутбуки",
+      "matchId": 217287097,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 127,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637240957,
+          "wh": 211730,
+          "time1": 30,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 13505000,
+            "product": 8612600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A0fl+Eb7dDHrYyHG2OJDcgFxS5t5KNjqrlf80mYiK3YGERPI9DWReP0IVbyuHE6513vO100vV7H/33NMXYrj8r1IMBgWCIOi+SPV8iqWzoCaCWqZJNOdO9P7Aq966bbJlgCRFfDxKSQct1Qo4BJ3J8gwmzKKpzfaAtvY9440TrL+3yC3dsLBhgjxHlFyUra3qXYqBBrUN91iFkCSCiEZUHcFZkMXi9Y"
+        }
+      ],
+      "totalQuantity": 9,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 525534863,
+      "time1": 20,
+      "time2": 34,
+      "wh": 212032,
+      "dtype": 6597069766657,
+      "dist": 134,
+      "root": 533093561,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Macbook Air 13 M4 16 256 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 217287297,
+      "supplier": "Nekrasov",
+      "supplierId": 250035435,
+      "supplierRating": 4.8,
+      "supplierFlags": 12240,
+      "pics": 5,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 38,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 725090683,
+          "wh": 212032,
+          "time1": 20,
+          "time2": 34,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11399000,
+            "product": 8077300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "AzC2b9ccNAzOHQqDEDDTkZ5Gx6JCyDbGK9w78I6qtMnbnxrCPo4WXlxqZWBkBgajDApErfiX64EfrDFOWH9GyJJqGzxeTuAsmzvIVaCX8/keSdyphtxR95s2DZtT763B8EHLf95XMiu5CtRhPd8NEy1IueJ/dJJaMrI+TVS58WvU//7DDxCc/RbA435Oqa0qk9mABeIT7T7H49SNErsc2gRFc1lzrys"
+        }
+      ],
+      "totalQuantity": 5,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550135511,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562060380,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 256GB Sky Blue MC6T4",
+      "entity": "ноутбуки",
+      "matchId": 350319908,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757109675,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11395000,
+            "product": 8074400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A3Uw4moG+j7cYLaEkolxyONWj5XKZEMjI2gOM9/qonT75/N3QdQHsx7WWWbho04UBLICoLdesZlmuAMxiNZKLmjuc8bztBHKL5IWVLueFYH63/E2hwMG9buGH9aLgXWguAv8t7QoHtUIjxhBQ2oL/TzgzVzQp16KZPd0dETNMEZxmPTjH3044nAdv7gtCAnSExoXvTMF2KcZqHkYF788iQwPuo4uCfA"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 494884700,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 502373480,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "бежевый",
+          "id": 16119260
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 256GB Starlight MW0Y3",
+      "entity": "ноутбуки",
+      "matchId": 266611828,
+      "supplier": "InnovaShop",
+      "supplierId": 250028437,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 15,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 532496,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 688401695,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11931000,
+            "product": 8200600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A5kfswHjdT6dURH0xayjfiZpjApxEvdl3L7F6X0krAZt7hR+KAarXefOOvq+IjiJq82fFx/Gm7nY98ghauQE2NRoHDK1Gk9S+aOj3FO4Zvr2d6H1qVYlFlbxdc06WAeARe36I3bwxfDHaONQqtpuB9cTrnSg/Wtzo/aikyLznNhpKhWNXUKNvgH7AqI+FbYbNLLiUpe6BiY19TleEqmLBqfwN/MlXUo"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451163066,
+      "time1": 144,
+      "time2": 35,
+      "wh": 50057561,
+      "dtype": 558345748481,
+      "dist": 118,
+      "root": 448318871,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M1 8 256 (Silver)",
+      "entity": "ноутбуки",
+      "matchId": 149218,
+      "supplier": "AE Dubai Freezone Official",
+      "supplierId": 250016268,
+      "supplierRating": 4.8,
+      "supplierFlags": 128,
+      "pics": 4,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 52,
+      "viewFlags": 8,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637118692,
+          "wh": 50057561,
+          "time1": 144,
+          "time2": 35,
+          "dtype": 558345748481,
+          "price": {
+            "basic": 5930800,
+            "product": 5930800,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959563,
+          "payload": "A7Aj1LzyFb2Z+Hf2fMMyQkKYW9I3qJAEeMGtnW1NkgMmJBqN29FKRQm5g+m48Nfds2pxHDs6BMrI7vg3n0ntAedV37oSp9N13Xg3ytdemYBJz8qvMYMvQ0n4MM+d4Z02DBgg2d7MPNG8/XosgrhQYyo4sn1JSns/ZIsOcbv9YDJVeD2+KuDYwCRNzmiTaz3FsrMa2sssED0sZTwf5jqJ7mc"
+        }
+      ],
+      "totalQuantity": 2,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 454246120,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 453063502,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбуки MacBook Air 15 Midnight M3, 16GB, 512GB 2024 MXD43",
+      "entity": "ноутбуки",
+      "matchId": 12250451,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 112,
+      "viewFlags": 1581184,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 640760057,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 14208000,
+            "product": 10869100,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A5UGr4UGbx4AgYVXSv+rCt6rdinznpOTgFJgDzy3UkqFDiFO3Qyt8VSraQD5CHQmXMmWFkRa63lIIOg0UUpDXbupO333b8/g67bH9nlWZ3wHCS00nT2bKobeWZ/MMCBD9xyx8+UgyuJG3QepuyIeNSBxDOt3OnTsbv3uuCpEV5OzQ2h0y1T6E0WY/6JUfiBoqynAKvn02VgRgto4EQKI6PC54wTElA"
+        }
+      ],
+      "totalQuantity": 9,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 452326890,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 449572810,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook MC7W4 Air 13 M2 16 256 Starlight (2024)",
+      "entity": "ноутбуки",
+      "matchId": 215182637,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 43,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 638485337,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 10868000,
+            "product": 8314000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A8GiZKAT45b9i7XDLVK5GJeaGeGLBfLWa/OkrXGehOoqlHxs0mO9gAcLooJJ+T0zVWqbllRo3LTxo1qkn0AXCuEg/l0enzwJwIPSt2Y3OsK2ESDbonuY60YCE7DsTiItyFcgQ8Yp42VduxNIuLsdjV1cTVhPZ/Yi1MQqpTl937DM41iSO5g4drKxQWl4mboEbGJNDJBMA4TjAMHZ4rbfnaaV8hjcmA"
+        }
+      ],
+      "totalQuantity": 4,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 452333699,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 449572810,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook MC7X4 Air 13 M2 16 256 Midnight (2024)",
+      "entity": "ноутбуки",
+      "matchId": 198743319,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 5,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 43,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 638492696,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 10786000,
+            "product": 8251200,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "Ayur2YS9gOHECPYHi94c934YFST4JfuHxzrtfye9wldeCenaA1CVyTu95+nK69s9feThRloMmsJi3WP5mp/Ir4TERDniLmYdWNgduy3B78trr2kwEPwRHXYdx+2UrXeNE12biRAlsIXLAoT/TYtSVcXyX/UMpXCUHbjasn9YlJQ4ltksKhv4Nc6KeEReZRglyfRrkC19XkX/bMbjDZOxpDOkYkTJOw"
+        }
+      ],
+      "totalQuantity": 10,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 453461373,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 450905284,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook MRXP3 Air 13 M3 8 512 Gray (2024)",
+      "entity": "ноутбуки",
+      "matchId": 239057931,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 5,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 59,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 639850937,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 13468000,
+            "product": 10303000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "Ay8j8pqwFb7qz+F9t2vefw67BsyyjSC5bcMR9paEZg1uwV0aZnD/808sduL5mswGvdU5DAEgW0LLx9ISCZ+iWEfq7wXCmjfn/kHMXcTGVjPf1y9PoHhcMLUyDwiXBH0NpkH34jwXOIGU2eE8q301ZgbVu9giGm3rGrqiKTgKDtrKd9kTtDwMiW5JZuohHI8EUgzNuir/Rsw+Jg/Tpv4BWTdORM+RKw"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434606947,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 426894864,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MC654 -M4 24 512 Silver",
+      "entity": "ноутбуки",
+      "matchId": 235754922,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "feedbackPoints": 350,
+      "panelPromoId": 1010357,
+      "volume": 102,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617089972,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 18886000,
+            "product": 14447700,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A9qjAAK8+ZUzaCRzPR7bTt7muED9kITVcj6nfKLorzd3aalMiN54wMcU/QgiUV8tvqZP8vh071oTPgw0kQWUzvfo/sYyplMuMv08vbiLlFJE+9VxzixfVP5s6bAKAVM8xgDE020S8Ws0Uqwu5FMzZQ6puZg9t461UUHH2/mymjPR9m0JSMsC9M+kK3ae9rgJvTNwA2zsADftQO9FWVdu+ekuseT64g"
+        }
+      ],
+      "totalQuantity": 26,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 460477324,
+      "time1": 96,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 459864000,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "бежевый",
+          "id": 16119260
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 256GB Starlight MW0Y3",
+      "entity": "ноутбуки",
+      "matchId": 266611828,
+      "supplier": "Forward Store",
+      "supplierId": 4382537,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581072,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 648356819,
+          "wh": 211730,
+          "time1": 96,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 12192000,
+            "product": 8207200,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A60qXDUBEEQe00kdDZmn3SbMumXmgz2iK0yI8PhUOOwkmiWc2NANS4xvMB3v7Cn1VUJUlgvvbtzMsyTQDWhky5Wyd5RL21RzvRc48wxtRXYIRaG+6gpacUQAoL5Jy+nEprNJt0YmgVzeujfBv2GQKak6k5ancnCxrAx9yrWagFTvS223ilfd8bibCy11jsomVoUC9mngzoFgSVfnggGVh9sdx8jOC2M"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275646,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433297,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1L3 -M4 16 256 Midnight",
+      "entity": "ноутбуки",
+      "matchId": 300605968,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 164,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637241049,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 16301000,
+            "product": 12470200,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A4+DjGc71OgSNi2iTew9Ma3GgT8NoF3T/JZMqn2zXRJP9hkVO6u6fOL9vJIIUc0lfNcHCAMdaXWyu+7YMu3wngClNKuaj15uuNOTic9mgg4cNWMvz0pWcjxtQWoee+bRMHR/xKmgJHEPJoJ7zE3H1rFoHcEalI527dWdF7LTMsDSJfGmJnAtiUlTZs2pFOczwFKla06Ngpvi4iYoeBPPHo95BzgsAg"
+        }
+      ],
+      "totalQuantity": 4,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 312727074,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "rcId": 205,
+      "root": 504513726,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 M3 16 256 Midnight (MC9G4)",
+      "entity": "ноутбуки",
+      "matchId": 233683199,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 236,
+      "viewFlags": 1581192,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 472677489,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 20000000,
+            "product": 9070000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A8Q7Td3+jkeUY/3cTBKidxSqGYtgKt2h/2PogBOF8pmek5Z8mpkAEdBEixuPNzXdplvTxJJM7sWYs4l+r2MRC6sn2UH04d7faqrql1Xa4a5mwD0XHFcr7Ri3vf4gM2DeAq7Gbw2J6Jfw5Ae8xQ/JGeHm8VQ6FJDQXOyOLrCfPMY3NixK4LpxAEH04lkh2vZv8saMwy4EZW7s2S6WBRlAcYSx60s/m2o"
+        }
+      ],
+      "totalQuantity": 3,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 418607547,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 410333247,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2024 MacBook Air M3 13.6 M3 16+512G совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 235208943,
+      "supplier": "AppleStore",
+      "supplierId": 4215100,
+      "supplierRating": 4.5,
+      "supplierFlags": 3072,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 24,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 598798154,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 22069300,
+            "product": 10151800,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "AyhPJlkKdxhQCjpylxJ7gfYPnMuOWvFnXuc+bjCIYNf+A4894AoIPDBH2TWE/edDvJLKEWZ6FR1l2YTrd7d1llnQx97zT69FIR2FwH2fMhLCotki6m28J1HmOiYgBRHIBtPHZEQgCufZVOW6ndA+hdlpanR5hHxIoLC+ttMUDv5HD7N9l1oCp179S1FJKYxkZYpQ4fR3ac3WE/RjPldnt5pwjA"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275648,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433297,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1G3 -M4 16 256 Silver",
+      "entity": "ноутбуки",
+      "matchId": 233675718,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 192,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637241051,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 16221000,
+            "product": 12409000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A8C3ezgIIEHPiqdAnIR2Yr04+J63urIkr3fIKRYAavLhKuBPgJT3PzDyUQghrF+L4U010FTPKTi9pqIplKW/Mmukro4arDUfpK4qLCoPJtNb7J/6krI1GaZDVpz847iPAOyFDdaY2j1PQE+TQRWS5LDVwtumFolSvRDDLQt4gUZEyTz5LvOF3yOd7MNtJ3oMJUzX2TfE8FfPn9e3yhmxAaXGAM63Qw"
+        }
+      ],
+      "totalQuantity": 5,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671116,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MC7D4 -M4 24 512 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 238649178,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 2,
+      "nmFeedbacks": 2,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 192,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160794,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 21362000,
+            "product": 16341900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A6RVapEVZUaFyFRX2AKS8CcR4hNsUdfbe4WpcSyP+wG7cehkiXZjsMN5EHawDLmTiSAP2h9N+QlQ8Zp/AWWnXT8O3/kZM5oJhED2kUg6XsdSBLD8vOsBA1O5nDfO+f7CVpX8xid237qTvm6PiCEaFAEoKkQ3tZKYySI8UD7CUpNKvq/gGpgxNl5eMV3/ls/07g/4vo4UnUTgbKgIkH6rjbrdFT+xIQ"
+        }
+      ],
+      "totalQuantity": 19,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275650,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433297,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1H3 -M4 16 512 Silver",
+      "entity": "ноутбуки",
+      "matchId": 206043353,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 155,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637241053,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 19649000,
+            "product": 15031400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "Ax4bAkBpxTen5WGOo+gN83c3Gj6lNBkOz9H+biI2uaeGcO7aHYEK3zXa2hn/pte48PEQogOyrF3HS0+k5PM0HCqgazNYUkqWFV8zYbl6dCYt6yAmKleF4HQhPSoTnvFQcO4relIzmLj9ZQLp65Rlp7rYqWiDfyqzTxA0O2oU6Klm6YqNheNzhshsLUNHUEAR6DAVLzCC25hbEW2LKhbdWXAN9+zjaA"
+        }
+      ],
+      "totalQuantity": 4,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 274497515,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "rcId": 206,
+      "root": 253666253,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M1 8 256 Gold (MGND3)",
+      "entity": "ноутбуки",
+      "matchId": 236329876,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 4,
+      "reviewRating": 4.3,
+      "nmReviewRating": 4.3,
+      "feedbacks": 7,
+      "nmFeedbacks": 7,
+      "panelPromoId": 1010357,
+      "volume": 268,
+      "viewFlags": 1581064,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 423340339,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 10200000,
+            "product": 5854400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A4F1X/9hLMGQmwVDzS7MPqgYdkn9LWU+H1aixOktndaCpcIhH6JrHw66xBRVidN4y13trWgctYuNvD9VfEusSU+crxMDkJS0kVcPLo2OQCGcHEIXDVF2qoXcsOrTjTpJXa/XyGQiljxiO+o77kOyDfDFL29zTKkftp4yhiSDbS+46HwlLZUVt/4SQBJadDP1T/NpHatYuPYslbHxOo8PMlr8t4vJJSY"
+        }
+      ],
+      "totalQuantity": 4,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 525524294,
+      "time1": 20,
+      "time2": 34,
+      "wh": 212032,
+      "dtype": 6597069766657,
+      "dist": 134,
+      "root": 537440252,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M2 16 256, Midnight",
+      "entity": "ноутбуки",
+      "matchId": 348637519,
+      "supplier": "Nekrasov",
+      "supplierId": 250035435,
+      "supplierRating": 4.8,
+      "supplierFlags": 12240,
+      "pics": 5,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 33,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 725078375,
+          "wh": 212032,
+          "time1": 20,
+          "time2": 34,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 9590000,
+            "product": 6591600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A6VG9gC7tRqTmqi2ItFCpl55+3Xa2K63/sontzM07AZN/gk0rdmvVIVoZkliUbE7RpjTWPAwInNMEypOnaFWBBayUgbaNHru8600iUWHWtZORLlGRbsyQcaKVVLH1x5NJTDMRxVoVzCMR+XNXcUT/Mc+FAxruKQJjkQUutpJnuiPjpP/wULgzHKrNIzfmgylH0Lq4urseyj3DhprbhZBJeLWaslv6Zo"
+        }
+      ],
+      "totalQuantity": 5,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 418607569,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 410333247,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2024 MacBook Air M3 13.6 M3 16+512G совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 233960693,
+      "supplier": "AppleStore",
+      "supplierId": 4215100,
+      "supplierRating": 4.5,
+      "supplierFlags": 3072,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 24,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 598798180,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 22069300,
+            "product": 10151800,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "A1d7Bidj0OCL03itETy5Wv27gwYt77K3owzUCuIM1yflPRFRA6sgId/hh+p7ktA82Tp/Pd3tVlu3lKnNqJRuB082X1mp3l9ezTl/Of18h8vXIDDerCCkD4tetgmX8dV1BUrVOee27C85k4odnkOLHHa9le/FIuftFAD1KS0BDbecFeeuWJlGGPJFW4Se5BbelyUWedVp8pwN33zvKUeJiZ4Nuw"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550135514,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562060380,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 256GB Silver MW0W3",
+      "entity": "ноутбуки",
+      "matchId": 233685557,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757109678,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11439000,
+            "product": 8105600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A7UxwyJmTUpDY+CoiHHbY0a/ovB2YiFOCrKuF326Wnsp82aejeQLMv/S7LD2kjd9uqVuSrbmPAkXPSpxUHl5y8rV7HwsfmvcZ8IipJ/6caXOF+oItdxsI6L/k3weoDp1kn/m5lG0OkLaI77w+QFnuLaHfnv32UWmiQ0dO2DJkc5md2kuNxsj6wMLoE9tklB5/wrLNw12Uz+AocHfYLrDKJh3TlH7MiY"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 404612486,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 502671462,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 M4 24 512 Sky Blue (MC7D4)",
+      "entity": "ноутбуки",
+      "matchId": 280457317,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 10,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 236,
+      "viewFlags": 1581192,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 582805484,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 25700000,
+            "product": 14204500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A9dPxJMHq0P9EvSiypwwkRNDPpJdeTFrHvfbEeVET7zly2TaFmhew9w7CUHib1Hrfy3RsHPI1YJqa5NUbGZKnQZ38Xv/EtGOZ1MR9OYHIRAa2pYC7BUk0PRup4n/xMb6cyvTABMikYww++WIOFgl+vgMGNuvXOHwWGGuG7pFYhyN6zjmrisaIxH/6UebbrF8vySBokwXH7Y0t4TiDujA+gBurdWfRIU"
+        }
+      ],
+      "totalQuantity": 3,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434606948,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 426894864,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MC6V4 -M4 24 512 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 238333302,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 350,
+      "panelPromoId": 1010357,
+      "volume": 282,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617089973,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 18549000,
+            "product": 14189900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "Ax//vvH9C/o+m5GzckbJAGcFNNe05SYFpNzq2AsIrhD3pGzK2704zSoKhTkqw18wfMCmYFSBL3VSfaLfEnHnjy7riKzUMW50VI3dqn/N84AQ5C0McYt0TVAjybDhd6DQEb953rAiqCAMqai/IVKah+XNpI7/LfS3yDBO9V1MlMFnv2DpMRBxPLGCTSvkmDR6Wbyq9csqdPF1EHIsDkzXQ5fUBjUUhw"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 418602856,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 410329872,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2024 MacBook Air M3 13.6 8+256 совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 8644895,
+      "supplier": "AppleStore",
+      "supplierId": 4215100,
+      "supplierRating": 4.5,
+      "supplierFlags": 3072,
+      "pics": 9,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 24,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 598792177,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 16261600,
+            "product": 7480300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "A735X4e9aNgXp725DLp9wWI5Du2PTCoydui5wqoC3kZlExaXbix0oPwVKohN3Z2LYHVZSdkce+2wRNWFf0VfUIxaCCNTrsU7vVuVDYrqWZKMq3f7dy2khC/b3dEk0AoImXfJmar7br2+06GM2VJSSogy2mJPtooin8EplEfhwN9uOc3B1HA125/I9gjzxE0no55Nmsb7hgT4XHLtWPZZ8qeK9Q"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550152055,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562075295,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 2025 M4 16 256GB Silver MW1G3",
+      "entity": "ноутбуки",
+      "matchId": 206043329,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757128139,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 14517000,
+            "product": 10286700,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A+ENLbBvEFVweGYBkB1JIRiM21P39MkqbQoH/U8phH9qW4qimmCll40390iUpY3SFbQXCNerrpIAwUVn2JrskxzghdVUQhbKENYrplL4wr+x+a9MkhzwafuZ1dJEFDz3bMXfiwJSgCqcyPT6D0lq61r84lZAAuMlIQJUXMCs8CvXymkZDwbUSdzKg0ApbAbM68ExbGZ9Nwx4QBNjcw2gX3+01/iFS6w"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 460467437,
+      "time1": 96,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 459864000,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 2025 M4 16 256GB Midnight MW123",
+      "entity": "ноутбуки",
+      "matchId": 206043608,
+      "supplier": "Forward Store",
+      "supplierId": 4382537,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581072,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 648345310,
+          "wh": 211730,
+          "time1": 96,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 12271000,
+            "product": 8260400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A/SVhR6A8o1dgFksdiOGirujW4eCQMclWHz99PitrXmSpKhRY74BPGJixtV66IsqLmKMHGJSfOiZvLMx0iuy+chVdTN/xM7HdsEuL5EB2n4TcxW/tXCM6D78ThqcnaryuwEO03XERwfwuG49Gh16TGSVm+VuReThRojUuozZ2XrvlVuJxFZ3flMSPgvZNsOxpFTLd1VrbTu35IAenqhhEcZwZ2nO0f0"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671107,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1L3 -M4 16 256 Midnight",
+      "entity": "ноутбуки",
+      "matchId": 238334066,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 4,
+      "nmFeedbacks": 4,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 164,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160786,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 15896000,
+            "product": 12160400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "AzpUxBPNOnCcixJ95ZWhwdYQht2e3vqSPeUV5z6VHmIzb7+Yy41ybhxpXSy/K56c1n6/QquNl+a0OS8KLQdcvvQEdkKUrvyj85w/4jAPQZPAQu0UkBPjwvKUXDnCOhooRuQJRt+G+gWiB6pBMZ7KvcNw3cpdNP7e5g2AEBs1uSV0m8L9MoSkORLzHPyNpVbFnyrpXT+Qay5swwsW8WKgYxrU68MkRQ"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671118,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "фиолетовый",
+          "id": 15631086
+        },
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MC6K4 -M4 24 512 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 240075081,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 4.5,
+      "nmReviewRating": 4.5,
+      "feedbacks": 2,
+      "nmFeedbacks": 2,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 192,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160797,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 21104000,
+            "product": 16144500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A4S0N7L3ikKO10LiyktyX/qEnObR2ZlCtUMcEx9F+iG+T+GR88CcwMShPbck9Z5Zh6zyJ5ai2peMFyz4iiYE+vpGS6rxNSc2NSd59SZw2d1mqXypdi3tQOLgtUEiG3GPOZ7RqSHlZkp+uHJ/HViYC7zw+e7HWwNeJf/LoFWp81/DfKr1aeS2o4my0+pqb/X+hkrhBWtqX8VM5ELXFQPDh0sCQ1v8aA"
+        }
+      ],
+      "totalQuantity": 26,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275561,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MW133-M4 16 512 Midnight",
+      "entity": "ноутбуки",
+      "matchId": 286618999,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 127,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637240964,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 16041000,
+            "product": 12271300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "AyD8i3e0eWESBbox17KP1zpoPF4T3SyJFKTBBfwTZWAg5eDnFjuUDcEHfNWUfBCGmj5xslZG7TczumGFoK5nQTnztlGXG8Fel1uC32TgPf3jCybTjDeB4w5OjUph0QxZeY2KHkLt7jObAFQ/SkUFa9sEFUkjCkQpa9J4Q3XIOWFLdq+ZKXxwVTzl3p4YLD535UmY/iTukIw1VGYnFq0zhCvUXP0H7A"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 367722953,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "root": 358889631,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Macbook Air 13 M4 16 256 (Silver)",
+      "entity": "ноутбуки",
+      "matchId": 217287097,
+      "supplier": "Wildberries",
+      "supplierId": 4099167,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 13,
+      "nmFeedbacks": 13,
+      "panelPromoId": 1010357,
+      "volume": 57,
+      "viewFlags": 1327116,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 538311280,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 14499000,
+            "product": 8844300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1476395008,
+          "payload": "A0yftnXNQtFq3xRaYw7/qUrdfcsxN+YQipLWvb0gklqyoi4q7mXsJaxsvMmikwBAD29982oaHlAvVHFpYFs88x7tgb+WZ7V7E1vuFigiLSfx/1iac6WFmduXkJ1BkA6cBg2TwzI7G9MfOWZWxKMEtEeQVpKyPmCzzxWUebjYloDhfgGJ55/MGpjsrVmFKPkvlmg/5+KrHgdKf+96C3AIJ9VKvTydOw"
+        }
+      ],
+      "totalQuantity": 8,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671113,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1M3 -M4 16 512 Midnight",
+      "entity": "ноутбуки",
+      "matchId": 238333364,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 192,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160792,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 19131000,
+            "product": 14635200,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A5xCJfeJ6K983Yib8DhdPCKYJqq8wNPJVS497RcUO8/KzriYW9M9ZeHwBhxY9sVL5kkTNndz/5dAVqxSFJhnWRNS6r9CxeMeij2Z87hziIXmLSINnVF/0VLazEV7biCjdIxdFWI9PED7mxaBoxo3LKjmKMs1LTyID5jqwMPaJQAEZlOETnT3pqqkYoPqmV12VCtilkMQAMkOEPvjDJrKwP8+K0knUQ"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550152054,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562075295,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "бежевый",
+          "id": 16119260
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 2025 M4 16 256GB Starlight MW1J3",
+      "entity": "ноутбуки",
+      "matchId": 206043666,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757128138,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 13825000,
+            "product": 9796300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A67mfiLBIfE9MDqDEqUg7kbeUv/4r849UvxU2rltpgXq/YBoW1U2hQbWoUSJTn4vVyV4jP5SVKx/6qMbZmGPV8EuZn46T7Hi24NcA6W7VD1Kzy6dxoc2dWFUQkoR3+J22xgLNtG9YnbHeRTC2fKsZtJuIPa8dJMZyP4wQ2nRX3g7DILdKFdnQAYOhR3gQpHqdjDFHNbVVes8U06lhlCMYzCh6WqqjO8"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 385073299,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "root": 376598523,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Macbook Air 13 M4 16 256 (Sky Blue)",
+      "entity": "ноутбуки",
+      "matchId": 217287579,
+      "supplier": "Wildberries",
+      "supplierId": 4398988,
+      "supplierRating": 4.7,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 57,
+      "viewFlags": 1327116,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 558293887,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 14499000,
+            "product": 14499000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1476395008,
+          "payload": "A0vtraFxhatML/kyhgnVJQo1BF5t3pMHb+JmgQmjzZ3RZU9/yFC/hTvqKozgJJ65TKEWtL1kVfDbm1Rn5ZlwYk0ffIoTfhuTA8/EIpGrIkeKKe5UMtzwDi17VyowHY3jDnpucpGEEYOSGSmriXcbNv8kVISVTg0/LPAY65BFrtonfyeptGLlLLD06Fc/90WCPx8TcpETKnduL4CCBAL/SfVMI57jZg"
+        }
+      ],
+      "totalQuantity": 1,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 394119675,
+      "time1": 35,
+      "time2": 26,
+      "wh": 119261,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 387446266,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air A2681",
+      "entity": "ноутбуки",
+      "matchId": 1100746,
+      "supplier": "Позитроника",
+      "supplierId": 65605,
+      "supplierRating": 4.7,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 77,
+      "viewFlags": 1310720,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 570622680,
+          "wh": 119261,
+          "time1": 35,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 12188900,
+            "product": 7773300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "Axz/aZDHn7hBUbZrbNDBolOpqKwvmNBW0Hqz+8g5LhLrzrMfp+5sDpfQu0nh3A4yO828aq2JZ+Rt8OxKaumeJdlZMOHWI3Ik8/SVf1drHRtaFMYBKCblUH8cfWQ6FB4gIgtW3IvS9E94YLevS5Dmxasv37yAn8idoCoLK5gWfi+pw7s/mdJSbZUXlkr89DkGzO7yjkvZHpVA3nlYfyKhh7hq6nDjrHA"
+        }
+      ],
+      "totalQuantity": 1,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 460467432,
+      "time1": 96,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 459367062,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 2025 M4 16 512GB Silver MW1H3",
+      "entity": "ноутбуки",
+      "matchId": 206043353,
+      "supplier": "Forward Store",
+      "supplierId": 4382537,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581072,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 648345305,
+          "wh": 211730,
+          "time1": 96,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 18417000,
+            "product": 12397700,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A7DtNAGvAnb5LNso9fDl+Jq+mnk115QVZsy9xh+llh8+nc8AuuoKPkgf6SNrxfPuHYkqARapJp4Gr/UsRkhFB4HZLz54JK7htX1nl93jfQg5HXCbdgucJOGWOAxZONBjWBoFG/1WgcX6qknl4Zv5MUfUqBajCuxjIyi2B0mITUzNjiQYEiVXAIv9Ikmjz3mRPte4881lYdsXYCYExC5e7tp3W8XDA1I"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 460467423,
+      "time1": 96,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 459864000,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 2025 M4 16 256GB Silver MW0W3",
+      "entity": "ноутбуки",
+      "matchId": 206043513,
+      "supplier": "Forward Store",
+      "supplierId": 4382537,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581072,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 648345296,
+          "wh": 211730,
+          "time1": 96,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 12239000,
+            "product": 8238900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A5KqKmAtHOxlF8kUoEXA4TemeNRduYw/vUIr6PYuZhi/rgZnNENxDTpjqeGDICbU7o/KI9ezMlJpwnopqrNq+uQ155cUE0qVgR9OVS/rjydIMqRR7VQpqsN/rlmKelIzW36cSeVfor7VuSqzbgWtoLyYBFxia0hUkAHZvRGgYDAUd43Jdd4R79UU+ckCYdvoAZ7qCBK7IxCjTZM6cJmWSw8iLVFqRIQ"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275647,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433297,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "фиолетовый",
+          "id": 15631086
+        },
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1J3 -M4 16 256 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 288200913,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "volume": 192,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637241050,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 15922000,
+            "product": 12180300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A73x5r+MGGc/UAqgtea/x/U9G/WV/SKbZ/kC+ZBea6bkYcmINHeIDaZGexq1y1A7cSFvoWTRv8OitH0c22egCF6x8QVn0ve8nASho3ksY9rB32Wl9mMVy35yFW2rq1F6rEnvAdsEzB8G44GW96ZUUb1TgT8QtwTA+pmEmfH4j7sFk60P22t4SlUlge3LJzqG3Lf9L0xxntZyNrq3qZANHv90Zoj6Fg"
+        }
+      ],
+      "totalQuantity": 4,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434448232,
+      "time1": 33,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 426894864,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MW0W3 M4 16 256 Silver",
+      "entity": "ноутбуки",
+      "matchId": 235755071,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 2,
+      "nmFeedbacks": 2,
+      "feedbackPoints": 350,
+      "panelPromoId": 1010357,
+      "volume": 127,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 616888420,
+          "wh": 211730,
+          "time1": 33,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 13156000,
+            "product": 8390100,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A6M9BSwt7LMVuACzgmIDr9hGgZDGi6haCRwphpFI+L8lUwTWITPpXw1ysDxCrwcOmyrWT2OD/7MZkjmyD783Of1xta2G0yhAQHML4xwzwAd/P2JPQCg3MWEkjFVaplFVwFHW/J8OjJVl8WIQ8KMASjnvolNC4N/jTvdFocceBmXxS24mYZuL2FmluY2fpndJhrQpyiX4d0kkVxMbgMOEWgpr4RnpjJk"
+        }
+      ],
+      "totalQuantity": 19,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 418602828,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 410329872,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2024 MacBook Air M3 13.6 8+256 совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 233676883,
+      "supplier": "AppleStore",
+      "supplierId": 4215100,
+      "supplierRating": 4.5,
+      "supplierFlags": 3072,
+      "pics": 10,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 24,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 598792144,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 16261600,
+            "product": 7480300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "A7a3h6b1SoBHicFuF17yXhuNa9LoosuROA9yp+n63wIVhbYtnZj6VRv63rHanUrOgOAZn3Yk/IUWC3TOcQg6c286XwYjweZMxUFWObkuWU1/9+kIoqjqRQrsVfz1Ut3VkmQ8a05h9L+wQfUP5fHKIFIFXhOXIpJwWid2uij/m12BK53gPSQMHGd2tf+Ck/hBovGVlit0wkDLazGJuqBFdAiAYA"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 460467431,
+      "time1": 96,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 459367062,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 2025 M4 24 512GB Sky Blue MC7D4",
+      "entity": "ноутбуки",
+      "matchId": 280457317,
+      "supplier": "Forward Store",
+      "supplierId": 4382537,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581072,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 648345304,
+          "wh": 211730,
+          "time1": 96,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 20702000,
+            "product": 13935900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A20lK5jEMFftOYKppJ4NXVMFYw1jQhnRVcqSluDX/l7W2ALhX45uhSUJyKA7x5F1utGZjzu7Y0sr9QrM0nm5Pq2tHLuuCnMPJbpGQOlVLHLNlYG5mQ1jdQSvYFIY17/WpjiWW6R4stOMpsuDGR9ELAvj3nTPpXV21WfJILLpDzugJC/i//g5yuYUpv0iPuIInp+8/RVjaX7O2eXOlTue66Zn57UuEWI"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 460477330,
+      "time1": 96,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 459367062,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "бежевый",
+          "id": 16119260
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 2025 M4 24 512GB Starlight MC6K4",
+      "entity": "ноутбуки",
+      "matchId": 285805121,
+      "supplier": "Forward Store",
+      "supplierId": 4382537,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581072,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 648356825,
+          "wh": 211730,
+          "time1": 96,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 20466000,
+            "product": 13777000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A2rdTp/nvCjzUeuxU4wu9yZopRCJxj1qSpsFHErxWU9NQObrjTZmLYJkrY5OMGaUFIqrRpMprZwaf1mhoVB/ZT+vCrMAZJrMDAN3ZFYtbm525aM0CvNcAWojeB98tkGR3h3E0C4yXZ0v1m4vuddvM3gxsGp+3Gjo6LCAZqRNjRM6DZ3tAunEwyUqVaCgKlNh9hSfCYLj3d+oBEPdqjuAx6ruv0vM6JI"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275560,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        },
+        {
+          "name": "фиолетовый",
+          "id": 15631086
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MW103 -M4 16 512 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 300046412,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 127,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637240963,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 15953000,
+            "product": 12204000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A4Y9SWQy2LD723ijvUMSPJ748y9x6Hj2qP2xP6oULn08VTxTTv9Vq4ZLxGZvhb0X3onrRcHzhiISbln4IzSij/eLawpbBXu/dxd+PbpED9AIcbIG4M57z+Lfb5YXjHGwxzi2A/77xpMmLGa/sNp/Yeu+Qvuo2AiiwAdSmqrmhH+cKTR3izacTonEwk9px2IJyeRUevIWgwRdoPnfCcR6kl0NftkJfg"
+        }
+      ],
+      "totalQuantity": 9,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 454221292,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 453039819,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 M3 Starlight 16 256 (2024) MC9F4",
+      "entity": "ноутбуки",
+      "matchId": 292300793,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 112,
+      "viewFlags": 1581184,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 640733499,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 21048000,
+            "product": 16101700,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A1DDV7A+8LEgeIIzXyx60x8WnXAX12qtvoR6Gpat+xA75TeBINse5G4CXW1Fl5xp8jEhiRgiaZTDQlGxfFG/vNWnJI16+kxF0SrAFcGT9C4dgHlhFP5EAlmE1RE81/F3M7bcAG6bevz6GBFuSBnsVdNPRVXStEVcdDBojEk7EDwj5bbt0238WE2VIRSkeW/Wb2j5G1SorQP+QKv7hQvyOibiQInDEg"
+        }
+      ],
+      "totalQuantity": 9,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275559,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MC6U4 M4 16 512 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 218837200,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 127,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637240962,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 16136000,
+            "product": 12344000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A2Nb/PEqaLRHx55QK47DI3sOczHB3TGDSBbtek/jxomxJ86wOYiND3NIaIkNKGa95p6+vFNOq1soBu3/smpY40ObVXlCsw3p49Dkus3YyWQHYFsL1ZSKKukLII0FECWwCKs5VJatkdWOhopJN3z77jSS4f9t+MkjlYhI5b1OXklmg/esqOOz7lp1mb1Uh8Lcamt19X7S0r6esz7PBsrrTz818Eflyg"
+        }
+      ],
+      "totalQuantity": 5,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 494884696,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "root": 502373480,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 512GB Sky Blue MC6U4",
+      "entity": "ноутбуки",
+      "matchId": 206043480,
+      "supplier": "InnovaShop",
+      "supplierId": 250028437,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 532496,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 688401691,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 15092000,
+            "product": 10373300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A3cFp6Avspwg1oOqzDazdw4QEk7d/FRkGqwmNMLeUe7F7wEQ8unJFn/4fXH3rH74M3jktmc7PolWqmm5zm/snbqiy3cJ02m2H6+wjxiWvoxLuF23CGP96W4iFMYZUa3R6pm41HuHy2/X60h4GQF1U9e0gO0FVIMDrcuhOenu4sd8jAVS4UmGy8pyk10SurAJXuFxZeXFpNfwr/XZj6t72oceW40zSO8"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 454253043,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 Silver M4, 16GB, 512, 2025 MW0X3",
+      "entity": "ноутбуки",
+      "matchId": 206043388,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 5,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 127,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 640768543,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 17365000,
+            "product": 13284200,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A8d67SntRFwU3bR7fl2Ny9tBO/FBJ/q9UzgVSIQqxuZE2Kia8YoaUdwwmq8hoob8J/r33UZY8S0Ilm0NfgeqMqnsNGN7XDwYVo1hMVr4+/gcSECIUFwtm9SvWBAtVzzJgJlc7Y+6SKY9dvXM6yfnh5LbS1ZRsowqUvDBjv95kswZnOcDzYALgU3Hdh/ZNMUsl4OAPRAL04HBJ8sLxUNSSihd9dKaFg"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550135513,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562060380,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "бежевый",
+          "id": 16119260
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 256GB Starlight MW0Y3",
+      "entity": "ноутбуки",
+      "matchId": 266611828,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757109677,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11395000,
+            "product": 8074400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A/lnUVlKb0EKAmOZnjah4oEyKc/BaaykznYfVoDwrnTZWED9lNrOooxKwZvD7ghuM4yYg60RJMpQP6yUefEAjZ856L1YdxJmf7vT7mfRaxiV/T+5WJ6ExHR+ziSv1iAd2+5f0brD8XF4V+NOjgYShtLFWLjrIK/3St2fIOvlGuxzCQgGQabIzApUl4jzqkY68j9DwmeiT2PDOkZSwobTWqIi4IcCp+0"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275652,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433297,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1M3 -M4 16 512 Midnight",
+      "entity": "ноутбуки",
+      "matchId": 281229904,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 192,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637241055,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 19649000,
+            "product": 15031400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A5wxYnweLlIGAOz4cafHhClRWaaPlm4RlrrEpks0zmGZh13bmRwZjvTBekD+12Jy1KRvOV8xbPPFAcnJvIf6eAlfrDKngZDTWmZu4YY8IA7WpDtAFOWSB/evNoBmPLiBYxWTSZK7rmHDwEUrW323LwfTgEZAz/OJ7GvLv2v53R9haOVRlmnC8ncCVO1VMnECrQTUxlAs3njW2GdI1iuNd4KMKXiKTQ"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 555203821,
+      "time1": 60,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 568150415,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2022 MacBook Air M2 13.6'' 8G+512G совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 0,
+      "supplier": "RUTK",
+      "supplierId": 4111102,
+      "supplierRating": 4.2,
+      "supplierFlags": 3072,
+      "pics": 5,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 2,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 763302546,
+          "wh": 218804,
+          "time1": 60,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11879100,
+            "product": 11879000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "A4DUo3tYuNSQqDUA5JRWbj/eY3YOTmHwFHtl/sQqQUng3XmyGD96zpOIa9d1gBoUK2qrxaPIj/s4FJNTzC3/+D4Dgvyko1UJC0c/rmQr11sopYvF85Y1pMFk1NUIfkZ91nCBxoz0Mz279Mtx/XFrd5mpVlI4zyy6V2Hpgs5hEJSWsxT01hMDQ3iOXOw4E34CSSBMiNdYn7kOhdp90DfVXYkU"
+        }
+      ],
+      "totalQuantity": 10,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 494884694,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 502373480,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 2025 M4 24 512GB Midnight MC6L4",
+      "entity": "ноутбуки",
+      "matchId": 350677984,
+      "supplier": "InnovaShop",
+      "supplierId": 250028437,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 532496,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 688401689,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 20334000,
+            "product": 13976400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A2GwNEYsQ1XGBtBG5yVHXCc7bAfOdDIj92hl0d52wn0apAwbD64rw6UhhEr6RNWAIC3CJufo9cG9TKz0wdBN9qmTIwPaL4lx0M9HcS+oezkUHO5tQTsV7N6DOGXq4ujZkWYr+yx2r6vzf0c0O2xd/suADy6/pgZni/Rt6TrxNmcqr3+PZ8sBXdrEzV/lUDzXQ3f2KgxsLHhGcsbrMtq+K/LSJE1bz0A"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 555203635,
+      "time1": 60,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 568150283,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2022 MacBook Air M2 13.6'' 8G+512G совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 1479175,
+      "supplier": "RUTK",
+      "supplierId": 4111102,
+      "supplierRating": 4.2,
+      "supplierFlags": 3072,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 2,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 763301865,
+          "wh": 218804,
+          "time1": 60,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11879100,
+            "product": 11879000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "A10Iib5VZwkgreL+UiKq3Ha6aOVjQqSpLB95anuJHPe2A4+2IDsF7Ui+4MLoo6PiD66EUGK6C6XVeUgQbqu0hHUJ2iVCjLW2fJOQkOTEiJnWnKXv/37tqOtwy1idx/312Wg+zjjTj/IL6WLB9aPt5mLMMmjmdeCbvxg2M13OjQushIYOI8uFDVTrwTzym4e7MjyvmDw2gWJBJlv85yn7AxXj"
+        }
+      ],
+      "totalQuantity": 10,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 436665371,
+      "time1": 20,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 429406240,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13\" (M4, 2025), 16 ГБ, 256 ГБ, Midnight",
+      "entity": "ноутбуки",
+      "matchId": 288359849,
+      "supplier": "rv-Stock",
+      "supplierId": 1353909,
+      "supplierRating": 4.7,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 44,
+      "viewFlags": 532488,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 619420879,
+          "wh": 218804,
+          "time1": 20,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 13999000,
+            "product": 8828500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A7ncd2XxDbl1uMj5cVOmHa3CTjE1V/9SeWjW5WulKfqI/RUHa8wrAYXRryjN6JR8Cjj8EOs0qk89pZp8apOwIxFlGXO0UVSyfEqgJJZhEcu2nijdJUTdvhDRlMzDgRZXr0DTiwJHpZk6XbpV04gyxaA7sAiTi+POxUfzB3DvPTc4qs2Qz7IQ2fME69LspRh288Nkw9nmfj6xRDgQ1r9u1QjjzBLUc3o"
+        }
+      ],
+      "totalQuantity": 5,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434606949,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50091608,
+      "dtype": 6597069766658,
+      "dist": 11,
+      "root": 426894864,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        },
+        {
+          "name": "фиолетовый",
+          "id": 15631086
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MC6A4 -M4 24 512 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 238333373,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 350,
+      "panelPromoId": 1010357,
+      "volume": 137,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617089974,
+          "wh": 50091608,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 18457000,
+            "product": 14119600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A1BKZ6l5/XqDBvbvQK8ObmI0gxAxuoIeyZOVYQ+ACfV7aBAo73tDw5nOp8rkspzGByA/Psjvwl+HYEjAqmhmgvEC/Wcf6FM09PF29hJ6v/Tucu9Y0JSb69fFUiUOE/PZVYh6Hh8e4V/8ftU1liLWPG6+FnmNdDOEAzBJMVBOIVIZoWpKCmlG/oulGQxoGNQcSewj3PGzUEuCeqaGmFLcObXiE1BMNQ"
+        }
+      ],
+      "totalQuantity": 18,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 494884699,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 502373480,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 256GB Midnight MW123",
+      "entity": "ноутбуки",
+      "matchId": 206043608,
+      "supplier": "InnovaShop",
+      "supplierId": 250028437,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 532496,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 688401694,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 12008000,
+            "product": 8253600,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A/20Y9MkDgy+wpKrpWk8t8jyvtCAMf0sMp2YiPbAuDFH0Fj56CvkvaK5a37C8gIPZQhO8ZNylJ/4IJbV3pVsq8fUKjEsLBb0cKH7uTlKzlP0uNmluQJ7qm3F1hdeID1/oKpGbwcunqXB36JBxILe4yVvdhXZe6HWm3U9cNGPlQ+JtOixeWoMQSt19/Sa4E4RJTPJcuPFB0QY5eKX0y0t6z0UUim4Ymg"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 328863380,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "rcId": 206,
+      "root": 256903300,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M3 24 512 Starlight (MC8P4)",
+      "entity": "ноутбуки",
+      "matchId": 234360851,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 168,
+      "viewFlags": 1581064,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 493092909,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 19800000,
+            "product": 9961400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "Ay22pLRS9eU9ypY0c5YKntH9Cvmn9/Aa9vY0tnY3gOllIsSfcLrWFJLzDv74duLnWmT2oSeenGDJWSRU5Mya6+UAotnOWZhrDg4+kfIv83Uc5UwQrnLsea/noay3Wmh2mUAfG/5j6TdDweJL8wYQY8qRq5Q4Ks+WbZY9TTJUanXQWL2JhXinmedHSlXWaI4BMfhn/iCpeFFUjXLUfXR3ZEiFdu1FfMY"
+        }
+      ],
+      "totalQuantity": 1,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550152059,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562075295,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 2025 M4 16 512GB Silver MW1H3",
+      "entity": "ноутбуки",
+      "matchId": 214049397,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757128143,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 17212000,
+            "product": 12196400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A4QMdTsc8bHia/VevPHe//pO8tSQo1DEYt8v/o3Q7FzrWSU/RI3AD146cgwlTSzqpjwZGLvtaafzAKDacVWXjxeIryYXiR/ij7+8vkZOECeL0H+HwbVRZtE4RYVZ0p2+c7ZLNR91UhEFD48FZxLIsWJWjwtnnzyT+eYwADvd71dJ2MPS8tt7iCGLTnn5LMoq5h/1frNbExVrZnMkk5Qi6Tj1NlBWxAA"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671108,
+      "time1": 33,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "фиолетовый",
+          "id": 15631086
+        },
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1J3 -M4 16 256 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 238336150,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 10,
+      "nmFeedbacks": 10,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 192,
+      "viewFlags": 532480,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160787,
+          "wh": 211730,
+          "time1": 33,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 15513000,
+            "product": 9893200,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "AzeAlgG0Ureg6e+TERIDaIf1UlDgnM4mtQ6ZuzNoeTNJl1BJjY9p0hrIOvT1w4gbzhGWTl1JrZMXM3TB4m30SjFpbPi/mfP59IWYA0WgXhlMTq/dRGddWILlNEVWpQKKRCmUWnEutTQOuwQ8fSbJ/EY4VQFF0Ppa6S9fICwhKXBAMJkM7MCkvMLOg98DVBLCEMT2jnDp0+0BXCky0hUBy/ownGSzQ+I"
+        }
+      ],
+      "totalQuantity": 8,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 434671110,
+      "time1": 33,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 427142794,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MC7A4 -M4 16 256 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 367999844,
+      "supplier": "Trans Group I Оригинальная техника",
+      "supplierId": 250006878,
+      "supplierRating": 5,
+      "supplierFlags": 12224,
+      "pics": 5,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 7,
+      "nmFeedbacks": 7,
+      "feedbackPoints": 300,
+      "panelPromoId": 1010357,
+      "volume": 192,
+      "viewFlags": 1318912,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 617160789,
+          "wh": 211730,
+          "time1": 33,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 15633000,
+            "product": 9969700,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A/0s3ya5NoAj2Ys7zwg9IzkWzIvCTDklHbgajTsw75KIhEde3+/BX8NZA7OUeNRlZig88cYZr9OfxC7FOyhI+clGTtgzlFV3FRnFKIz0j8ijGKS+65BDgEbaug7FjOOpTfGczfhislWE5HcIE0oU4hereRHZS4ulY8huv5P1AAqKsSLbpmEasroiww+lBDqBvW7MCcv/6PbOeNRgE2jr2igPGSIZYdI"
+        }
+      ],
+      "totalQuantity": 11,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275654,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433297,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MC7A4 -M4 16 256 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 206043639,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 192,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637241057,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 16047000,
+            "product": 12275900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "AynIVWnV8e6FUyR0P7+NmOVotXfe4tbcHaE1z5G8z8S3KTd6ZjwleLXdSY8s9101dhRd3zpkt3yfNSZCY5eekqv6UpaSaZ0Hq5Nm+x/iw1rlElSRaWEwLNZU/1/jpkcwCEoZ4NvvY4gLgHvQmM0MguoLJlJPeN4ajblRFQym06G47nmw14h09AcFOaHLeuRDWbYiW6NNaOVMKRdzlie4AY58v5l/qw"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 494884695,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 502373480,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 24 512GB Sky Blue MC6V4",
+      "entity": "ноутбуки",
+      "matchId": 270617042,
+      "supplier": "InnovaShop",
+      "supplierId": 250028437,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 532496,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 688401690,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 17405000,
+            "product": 11839800,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A2eWFTm29/ohppuUHZYcUv7N1qhAMp8Ldx8w9m9AumAlqVZ3tbRPTgKlr6e9pZ4rNQ7/6/dPy+IwQHONi7Arr2sgM80cosFqfgxAHpt+bHkMXaOsXUfw4GNgoJKcAQMl3W8Ltc18a+Ksi8rJGQHfKJhew8q8pm/uz6YrdyliOUCR5ctivW8IoipBWpxCYI1TSIQ3xtpVm+bnut6gIOwzIcluJ5Cr9OQ"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550135518,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562060380,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 512GB Silver MW0X3",
+      "entity": "ноутбуки",
+      "matchId": 206043388,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757109682,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 14841000,
+            "product": 10516300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A+OPAGTp7ObP6EQ1iRfrAvYGsDxg7TdWv6F0m37lLabv1IX5IoKGUwckzgOT6fn8IiKGEEQUohGaq+8SYBFd2h59YSXNYMADAzCqDjuZvEu2q9kH+VdLHCtNu0M2I7oyTXMw1hbUveC18h8uX4RQfZTvk/l8oH/TXzrZtMEinJKO1V/bZGbnap5rep5/rG3UVous9pBnIiqhKyLf1oWvjM0FIE66iQM"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 460467422,
+      "time1": 96,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 312777770,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 2025 M4 16 256GB Midnight MW1L3",
+      "entity": "ноутбуки",
+      "matchId": 364171272,
+      "supplier": "Forward Store",
+      "supplierId": 4382537,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "panelPromoId": 1010357,
+      "volume": 180,
+      "viewFlags": 1581072,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 648345295,
+          "wh": 211730,
+          "time1": 96,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 15423000,
+            "product": 10382300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A7kx6sS8pt/evWr1tC0L3P293EqR7NxBUAwIxMkQp4oEWgmGhn+PLhBl/+S+s2r6OBjjEv+NvkWpRteSY7DaM2qlEKvbgsG9p7J58wglskK5az3rb85DWacxoMkwU0+bn+FjEHbqUtjZzc0b5IbEUnbK627zQKCUOr6S2rKO3dcSHbGszBa0Ge5jO98IbdMYVg5Q3pFBw+vvYk+sTxgMENrFTTT5d3A"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 525534862,
+      "time1": 20,
+      "time2": 34,
+      "wh": 212032,
+      "dtype": 6597069766657,
+      "dist": 134,
+      "root": 533093561,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Macbook Air 13 M4 16 256 Sky Blue",
+      "entity": "ноутбуки",
+      "matchId": 217287579,
+      "supplier": "Nekrasov",
+      "supplierId": 250035435,
+      "supplierRating": 4.8,
+      "supplierFlags": 12240,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 38,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 725090682,
+          "wh": 212032,
+          "time1": 20,
+          "time2": 34,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11399000,
+            "product": 8077300,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A2Li58VUPgqPuIVx2DOW1gKqQu50FINxzlcvob0izD1QAx4ObZI3rdXpZKWR++RzQ/fNIkLAwxOvPBtf4SRK6jRO3hHUJc0kdrnooxZ+MWbkJbEwHSx0j8Px3RHFEtP31XoBJuihBAT5WTM0s0rC0VGcoF6UVMP+KcujCPrvLbqLT1zuvWS3NWlIM309KGujp4s6ULgZ3RVG/pc7VHeyWd5zYRv+SAA"
+        }
+      ],
+      "totalQuantity": 5,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550135516,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562060380,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 512GB Midnight MW133",
+      "entity": "ноутбуки",
+      "matchId": 269076946,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757109680,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 14266000,
+            "product": 10108800,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A9HG4bm03ANP4LQXAfLYdfFsOzzWhSPu/apXhV45GofbmRwUA/8pnb491khAg8QWd9p4TFOnLbnAK+27z7BzN+WnqpcHjfKUP9mWO/pr0sGGlIbmfWjhqGpm5+ojjSVXc7KYe8TLoN+izPXrEj3TtPcdKJYq6bBp3QY1PT/bxmCuuDgEfNHz22ov/YBgoD9bXIePd0dJXWvDNAqj0tKWbYNi8fJzcwI"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 508089607,
+      "time1": 3,
+      "time2": 26,
+      "wh": 507,
+      "dtype": 6597069766664,
+      "dist": 99,
+      "rcId": 206,
+      "root": 518788333,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 M1 8 256 (Silver)",
+      "entity": "ноутбуки",
+      "matchId": 341571033,
+      "supplier": "Wildberries",
+      "supplierId": 250001795,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 5,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 216,
+      "viewFlags": 1327116,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 704698296,
+          "wh": 507,
+          "time1": 3,
+          "time2": 26,
+          "dtype": 6597069766664,
+          "price": {
+            "basic": 11499000,
+            "product": 5749500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1476395008,
+          "payload": "A/WXmsmo5f+aqVmUNsOibr6qxTjBELvZPd37IMPkXpK5LDr82ZvV4SG+eDHaJC7uZpKhO6sXKT4Q7SUV7wNsQ/UmQKNh8ec/qlNroMHa3jZ3GilTLeL9IepVo9XMUP9ZvcdyKKfBLCWMX1SJUI6+W4qaV1mFI/5YTGdGzgZrG07ZE5svn+xDhPesCw7YD8cuKXNb52aeutmJhxQKX8bHUxCMojwtJw"
+        }
+      ],
+      "totalQuantity": 100,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 312727075,
+      "time1": 23,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "rcId": 205,
+      "root": 257101283,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 M3 24 512 Silver (MC9J4)",
+      "entity": "ноутбуки",
+      "matchId": 233684808,
+      "supplier": "Cactus Shop",
+      "supplierId": 4277027,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 5,
+      "reviewRating": 5,
+      "nmReviewRating": 5,
+      "feedbacks": 1,
+      "nmFeedbacks": 1,
+      "panelPromoId": 1010357,
+      "volume": 236,
+      "viewFlags": 1581192,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 472677490,
+          "wh": 218804,
+          "time1": 23,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 22900000,
+            "product": 11521100,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 402653184,
+          "payload": "A9Az7+V7HPLm6hOXBam/eTWjhdbqMA02Gwh1vG4DyWvovPvkWIcudZaoMnAvG5prcZUYetfe0WNRiJYZZXmxEPqrA/79uqaNPLE4LsIVNj1/UA+ekCBPt0s7clKj71Ry/vNufTo5+pDpLWjGdVoKx4Qf7e2iRt6E1Fs/pR+8nPdna/5GlBgSO+oVFyQbJBAujbvIXUz/VZiwf3Y9ybGrSyXL94TDy9g"
+        }
+      ],
+      "totalQuantity": 3,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 460477331,
+      "time1": 96,
+      "time2": 25,
+      "wh": 211730,
+      "dtype": 6597069766657,
+      "dist": 48,
+      "root": 312777770,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "бежевый",
+          "id": 16119260
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 15 2025 M4 16 256GB Starlight MW1J3",
+      "entity": "ноутбуки",
+      "matchId": 206043666,
+      "supplier": "Forward Store",
+      "supplierId": 4382537,
+      "supplierRating": 4.8,
+      "supplierFlags": 12224,
+      "pics": 8,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 180,
+      "viewFlags": 1581072,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 648356826,
+          "wh": 211730,
+          "time1": 96,
+          "time2": 25,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 14792000,
+            "product": 9957500,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "Ay+NhztKWYIcEOr38G4pdIgYSejOMF0RhAs4LtfLcXotgtDWjZR7J8s/QHGXlH9AGvtOnAUIRoDKa5aGYBrmCp/YdIDhYnQrHTNnpJa9cW74oNLy+VR4NU1vTVeKGcB68DtqArGCNC3B9wzG5/I1tDr0Xt6/APfrpo85Bl7vuadETUQz6doOLpqWivbRTZsME7DoTsMjZSyBRZGn/Da+awaUSBHOHUw"
+        }
+      ],
+      "totalQuantity": 21,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550135515,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562060380,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "голубой",
+          "id": 11393254
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 512GB Sky Blue MC6U4",
+      "entity": "ноутбуки",
+      "matchId": 206043480,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757109679,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 14414000,
+            "product": 10213700,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "Ayzd5m9OqcUEWsPm2RgBP2x6XBIga+Uft+glMnJj9E5MW0Z/W1HmowJRrX73O0zewEbYUYFTHlsA46d9df1jXNsFJExnP0CX4/4KwckwhcGlE1f8subMCw+xQSu8+zLid9Kk+Irg+/7JCRwJBjVA6p6gtG60iucC4vOOUp2K92CIkukeBUq/Lc4IUjm/CF8dYOaXp4QQid7cmTlV8Zo7FkjWxqikflE"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275651,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433297,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "фиолетовый",
+          "id": 15631086
+        },
+        {
+          "name": "желтый",
+          "id": 16776960
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 15 MW1K3 -M4 16 512 Starlight",
+      "entity": "ноутбуки",
+      "matchId": 276284444,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 164,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637241054,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 19113000,
+            "product": 14621400,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A9czwteaqO8hI7hAvOWfgP6QPc+gJzqIZWwTMJKE5j0/hooC2/bUGG9DI95SwQ4bgo4XouLLPMsmVCrQAuyvBV/lwFnAtuLlpfuzGvk/GbA1GmyIRqZQgApBFzxBTPIOwWUEoFQSpXx45QUcr7BTM25nnfTetu4lGrQM4Rw9T5gmfCWdhaOrmt09Jz1niLH0bNqi1au8ZHtXmB+O9Lc9p4JHUSTWSg"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 555204969,
+      "time1": 60,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 568151355,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2022 MacBook Air M2 13.6'' 8G+512G совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 0,
+      "supplier": "универмаг",
+      "supplierId": 4195620,
+      "supplierRating": 4.2,
+      "supplierFlags": 3072,
+      "pics": 5,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 2,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 763305170,
+          "wh": 218804,
+          "time1": 60,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11886000,
+            "product": 11886000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "A+cRYzR5d7pWyUDfUDx8JOFP/RpKCuJMk3/ESXUY604ZGYBrvNx1YmFajAoTRZOjbr2vGG6yKmhtV12hIkiVTl+J6wXPvF7fAkENxkRqxafkKk+IojFGNjprH9sBYfRT3rfoN3Mh13+wOT6GiKSpMjdKW/jP3s0mU0qcSGSNdQ40WBGHKcWZHMrSCtMmWbXiyObOi2PEfpifva0oHBNILgI/"
+        }
+      ],
+      "totalQuantity": 10,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 550135512,
+      "time1": 60,
+      "time2": 26,
+      "wh": 304803,
+      "dtype": 6597069766657,
+      "dist": 99,
+      "root": 562060380,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "синий",
+          "id": 255
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "MacBook Air 13 2025 M4 16 256GB Midnight MW123",
+      "entity": "ноутбуки",
+      "matchId": 206043608,
+      "supplier": "Hypecore",
+      "supplierId": 250044325,
+      "supplierRating": 4.9,
+      "supplierFlags": 12240,
+      "pics": 15,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "feedbackPoints": 300,
+      "volume": 180,
+      "viewFlags": 1581074,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 757109676,
+          "wh": 304803,
+          "time1": 60,
+          "time2": 26,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11469000,
+            "product": 8126900,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "AzMkjoSnSW12f+csL0pSnpNolW4ls/37+d7ZTSXmc8ZKQMC+vb0Ts7H9AYM6l3UCpSZ709t04bKSAhiEkyhSFxzGluojBf5J5aWXFQpyq2YVBU5gG/M8dBL9313Sip5X6YJiz4o3H9xtjhpWmgLKmUFOIuaEZR3TBaJSJg9OJ1UJO12UU07BhhgHTL2ToE94+k6ftBZaJ4WBUEFuJLqaEY6NH3HOoSc"
+        }
+      ],
+      "totalQuantity": 20,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 451275562,
+      "time1": 5,
+      "time2": 0,
+      "wh": 50081359,
+      "dtype": 6597069766658,
+      "dist": 15,
+      "root": 448433271,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "черный",
+          "id": 0
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "Ноутбук MacBook Air 13 MC6C4 -M4 24 512 Midnight",
+      "entity": "ноутбуки",
+      "matchId": 230098613,
+      "supplier": "Boo Shop - Гарантия 1 Год",
+      "supplierId": 250011205,
+      "supplierRating": 4.9,
+      "supplierFlags": 12224,
+      "pics": 7,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 137,
+      "viewFlags": 1581056,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 637240965,
+          "wh": 50081359,
+          "time1": 5,
+          "time2": 0,
+          "dtype": 6597069766658,
+          "price": {
+            "basic": 19642000,
+            "product": 15026100,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 134217728,
+          "payload": "A0RbQN51o4FRJN+/KlYZGy0zlxLx85pUGVDF2EXXRC0KFk51zdIl1Yli1k4MB1zVHHRrNwFW5hGHWuOOREGQl/k9pQW4ON6iWsako0PPRDRSTMGSLSmFOuJXTBcdR0hCUS/qNxAz4HVaP60YgzTOoxQQ2Q+UlObJTDKOXpLLgFQmGzrExfs/8V8fSgzIasrywLIREkzg0VIzZl7fkwtlz8FlOEj1cw"
+        }
+      ],
+      "totalQuantity": 6,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    },
+    {
+      "id": 555204642,
+      "time1": 60,
+      "time2": 33,
+      "wh": 218804,
+      "dtype": 6597069766657,
+      "dist": 110,
+      "root": 568150982,
+      "kindId": 0,
+      "brand": "Apple",
+      "brandId": 6049,
+      "siteBrandId": 0,
+      "colors": [
+        {
+          "name": "серый",
+          "id": 8421504
+        }
+      ],
+      "subjectId": 2290,
+      "subjectParentId": 6238,
+      "name": "2022 MacBook Air M2 13.6'' 8G+512G совершенно новый",
+      "entity": "ноутбуки",
+      "matchId": 1479175,
+      "supplier": "универмаг",
+      "supplierId": 4195620,
+      "supplierRating": 4.2,
+      "supplierFlags": 3072,
+      "pics": 6,
+      "rating": 0,
+      "reviewRating": 0,
+      "nmReviewRating": 0,
+      "feedbacks": 0,
+      "nmFeedbacks": 0,
+      "volume": 120,
+      "viewFlags": 2,
+      "isNew": true,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "rank": 0,
+          "optionId": 763304808,
+          "wh": 218804,
+          "time1": 60,
+          "time2": 33,
+          "dtype": 6597069766657,
+          "price": {
+            "basic": 11886000,
+            "product": 11886000,
+            "logistics": 0,
+            "return": 0
+          },
+          "saleConditions": 1207959554,
+          "payload": "A02he4yzOE7dFK/5+YtqRwvAesD9Ruc/loQX100Pzmd8ehrXsoDPlygfBpyofuZ3p2Tr6hCffu4s/T54Cxpe9iLPzuGYYIRjuUze/wbWc9U+V9vCFZandosbb138T4IiimRYc+nUO8vXwyVsSFHBfV9h1c0OtNoj20d7pRBxUbKef8K5cKQbWIxtCBqkWS9R0HA3pSDw1nUB4ev/o8gAAUIP"
+        }
+      ],
+      "totalQuantity": 10,
+      "meta": {
+        "tokens": [],
+        "presetId": 10024868
+      }
+    }
+  ],
+  "total": 1109
+}

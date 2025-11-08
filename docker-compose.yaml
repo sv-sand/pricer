@@ -1,0 +1,15 @@
+services:
+  postgres:
+    container_name: pricer-db
+    build: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: "pricer"
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pricer-data:/var/lib/postgresql/data
+volumes:
+  pricer-data:
