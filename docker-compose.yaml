@@ -1,15 +1,48 @@
 services:
   postgres:
+    image: pricer-db
     container_name: pricer-db
     build: postgres
-    restart: always
     environment:
       POSTGRES_DB: "pricer"
       POSTGRES_USER: ${DB_USER}
       POSTGRES_PASSWORD: ${DB_PASSWORD}
+    networks:
+      - lan
     ports:
       - "5432:5432"
     volumes:
       - pricer-data:/var/lib/postgresql/data
+
+  pricer-parser-service:
+    image: pricer-parser-service
+    container_name: pricer-parser-service
+    build: pricer-parser-service
+    environment:
+      DB_NAME: "pricer"
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+    networks:
+      - lan
+    depends_on:
+      - postgres
+
+  pricer-tgbot:
+    image: pricer-tgbot
+    container_name: pricer-tgbot
+    build: pricer-tgbot
+    environment:
+      DB_NAME: "pricer"
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+      TGBOT_PRICER_TOKEN: ${TGBOT_PRICER_TOKEN}
+    networks:
+      - lan
+    depends_on:
+      - postgres
+
 volumes:
   pricer-data:
+
+networks:
+  lan:
