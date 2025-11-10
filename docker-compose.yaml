@@ -19,7 +19,7 @@ services:
     container_name: pricer-parser-service
     build: pricer-parser-service
     environment:
-      DB_NAME: "pricer"
+      DB_HOST: ${DB_HOST}
       DB_USER: ${DB_USER}
       DB_PASSWORD: ${DB_PASSWORD}
     networks:
@@ -32,7 +32,7 @@ services:
     container_name: pricer-tgbot
     build: pricer-tgbot
     environment:
-      DB_NAME: "pricer"
+      DB_HOST: ${DB_HOST}
       DB_USER: ${DB_USER}
       DB_PASSWORD: ${DB_PASSWORD}
       TGBOT_PRICER_TOKEN: ${TGBOT_PRICER_TOKEN}
