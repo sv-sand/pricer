@@ -1,0 +1,16 @@
+@startuml
+frame Pricer {
+    database "Database" as db
+    component "Price parser\nmicroservice" as priceParcer
+    component "Telegram bot\nmicroservice" as tgbot
+}
+
+interface "Telegram\nAPI" as tg
+interface "Marketplace\nAPI" as mp
+
+db <-- priceParcer
+db <-- tgbot
+tgbot --> tg
+priceParcer ..> mp
+
+@enduml
