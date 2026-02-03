@@ -5,6 +5,23 @@ Microservice system for parsing prices of marketplaces.
 There is marketplaces supported now:
 - Wildberries
 
+System consists of next microservices:
+
+[Parser service](https://github.com/sv-sand/pricer-parser-service)
+
+[![Java CI with Maven](https://github.com/sv-sand/pricer-parser-service/actions/workflows/maven.yml/badge.svg)](https://github.com/sv-sand/pricer-parser-service/actions/workflows/maven.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-parser-service&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-parser-service)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-parser-service&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-parser-service)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-parser-service&metric=coverage)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-parser-service)
+
+[Telegram bot service](https://github.com/sv-sand/pricer-tgbot)
+
+[![Java CI with Maven](https://github.com/sv-sand/pricer-tgbot/actions/workflows/maven.yml/badge.svg)](https://github.com/sv-sand/pricer-tgbot/actions/workflows/maven.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-tgbot&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-tgbot)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-tgbot&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-tgbot)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-tgbot&metric=coverage)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-tgbot)
+
+
 ## System requirements
 
 - Java 17
