@@ -16,21 +16,21 @@ Microservice system for parsing prices of marketplaces. System consists of next 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-tgbot&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-tgbot)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-tgbot&metric=coverage)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-tgbot)
 
+## Features
+
+There is marketplaces supported now:
+- Wildberries
+
+## Scheme of system
+
+![Scheme](doc/scheme-of-system.png)
+
 ## System requirements
 
 - Java 17
 - Git
 - Docker compose
 - Maven
-
-## Features
-
-There is marketplaces supported now:
-- Wildberries
-
-### Scheme of system
-
-![Scheme](doc/scheme-of-system.png)
 
 ## How to install
 
