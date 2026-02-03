@@ -1,11 +1,6 @@
 # Pricer system
 
-Microservice system for parsing prices of marketplaces. 
-
-There is marketplaces supported now:
-- Wildberries
-
-System consists of next microservices:
+Microservice system for parsing prices of marketplaces. System consists of next microservices:
 
 [Parser service](https://github.com/sv-sand/pricer-parser-service)
 
@@ -21,7 +16,6 @@ System consists of next microservices:
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-tgbot&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-tgbot)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=sv-sand_pricer-tgbot&metric=coverage)](https://sonarcloud.io/summary/new_code?id=sv-sand_pricer-tgbot)
 
-
 ## System requirements
 
 - Java 17
@@ -29,7 +23,12 @@ System consists of next microservices:
 - Docker compose
 - Maven
 
-## Scheme of system
+## Features
+
+There is marketplaces supported now:
+- Wildberries
+
+### Scheme of system
 
 ![Scheme](doc/scheme-of-system.png)
 
